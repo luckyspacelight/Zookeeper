@@ -1,0 +1,80 @@
+hyperskill_project:
+  id: 229
+  ide_files: https://stepik.org/media/attachments/lesson/647785/additional_files.json
+  is_template_based: true
+  use_ide: true
+update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+stages:
+- id: 1147
+  step: 17788
+  is_completed: true
+- id: 1148
+  step: 17789
+  is_completed: false
+- id: 1149
+  step: 17790
+  is_completed: false
+- id: 1150
+  step: 17791
+  is_completed: false
+topics:
+  0:
+  - title: Computer programming
+    theory_id: 8739
+  - title: Paradigms
+    theory_id: 15860
+  - title: Introduction to Java
+    theory_id: 3500
+  - title: Basic literals
+    theory_id: 3522
+  - title: Overview of the basic program
+    theory_id: 3521
+  - title: Printing data
+    theory_id: 3749
+  - title: Types and variables
+    theory_id: 3518
+  - title: Coding style conventions
+    theory_id: 12411
+  - title: Naming variables
+    theory_id: 3513
+  1:
+  - title: Comments
+    theory_id: 3520
+  - title: Scanning the input
+    theory_id: 9055
+  - title: Arithmetic operations
+    theory_id: 3519
+  - title: Integer types and operations
+    theory_id: 3565
+  - title: Boolean and logical operations
+    theory_id: 3516
+  - title: Increment and decrement
+    theory_id: 5008
+  - title: Characters
+    theory_id: 3514
+  - title: String
+    theory_id: 3523
+  - title: Text blocks
+    theory_id: 17316
+  2:
+  - title: Units of information
+    theory_id: 6865
+  - title: Sizes and ranges
+    theory_id: 3532
+  - title: Type casting
+    theory_id: 3510
+  - title: Calling a method
+    theory_id: 10973
+  - title: Primitive and reference types
+    theory_id: 5035
+  - title: Array
+    theory_id: 3511
+  3:
+  - title: Relational operators
+    theory_id: 3512
+  - title: Conditional statement
+    theory_id: 3503
+  - title: Ternary operator
+    theory_id: 3506
+  - title: The while and do-while loops
+    theory_id: 3498

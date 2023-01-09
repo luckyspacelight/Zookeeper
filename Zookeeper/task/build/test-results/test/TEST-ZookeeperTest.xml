@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ZookeeperTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-09T23:13:17" hostname="PC-EXODUS" time="0.448">
+  <properties/>
+  <testcase name="start" classname="ZookeeperTest" time="0.448"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+I love animals!
+Let's check on the animals...
+The deer looks fine.
+The bat looks happy.
+The lion looks healthy.
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

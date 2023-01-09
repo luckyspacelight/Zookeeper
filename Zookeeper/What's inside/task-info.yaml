@@ -1,0 +1,180 @@
+type: edu
+custom_name: What's inside?
+files:
+- name: src/Main.java
+  visible: true
+  text: "public class Main {\n    public static void main(String[] args) {\n     \
+    \   String camel = \"\"\"\n            Switching on the camera in the camel habitat...\n\
+    \             ___.-''''-.\n            /___  @    |\n            ',,,,.     |\
+    \         _.'''''''._\n                 '     |        /           \\\\\n    \
+    \             |     \\\\    _.-'             \\\\\n                 |      '.-'\
+    \                  '-.\n                 |                               ',\n\
+    \                 |                                '',\n                  ',,-,\
+    \                           ':;\n                       ',,| ;,,             \
+    \    ,' ;;\n                          ! ; !'',,,',',,,,'!  ;   ;:\n          \
+    \               : ;  ! !       ! ! ;  ;   :;\n                         ; ;   !\
+    \ !      ! !  ; ;   ;,\n                        ; ;    ! !     ! !   ; ;\n   \
+    \                     ; ;    ! !    ! !     ; ;\n                       ;,,  \
+    \    !,!   !,!     ;,;\n                       /_I      L_I   L_I     /_I\n  \
+    \          Look at that! Our little camel is sunbathing!\"\"\";\n\n        String\
+    \ lion = \"\"\"\n            Switching on the camera in the lion habitat...\n\
+    \                                                           ,w.\n            \
+    \                                             ,YWMMw  ,M  ,\n                \
+    \                    _.---.._   __..---._.'MMMMMw,wMWmW,\n                   \
+    \            _.-\"\"        '''           YP\"WMMMMMMMMMb,\n                 \
+    \           .-' __.'                   .'     MMMMW^WMMMM;\n                _,\
+    \        .'.-'\"; `,       /`     .--\"\"      :MMM[==MWMW^;\n             ,mM^\"\
+    \     ,-'.'   /   ;      ;      /   ,       MMMMb_wMW\"  @\\\\\n            ,MM:.\
+    \    .'.-'   .'     ;     `\\\\    ;     `,     MMMMMMMW `\"=./`-,\n         \
+    \   WMMm__,-'.'     /      _.\\\\      F'''-+,,   ;_,_.dMMMMMMMM[,_ / `=_}\n \
+    \           \"^MP__.-'    ,-' _.--\"\"   `-,   ;       \\\\  ; ;MMMMMMMMMMW^``;\
+    \ __|\n                       /   .'            ; ;         )  )`{  \\\\ `\"^W^`,\
+    \   \\\\  :\n                      /  .'             /  (       .'  /     Ww._\
+    \     `.  `\"\n                     /  Y,              `,  `-,=,_{   ;      MMMP`\"\
+    \"-,  `-._.-,\n                    (--, )                `,_ / `) \\\\/\"\") \
+    \     ^\"      `-, -;\"\\\\:\n            The lion is roaring!\"\"\";\n\n    \
+    \    String deer = \"\"\"\n            Switching on the camera in the deer habitat...\n\
+    \               /|       |\\\\\n            `__\\\\       //__'\n            \
+    \   ||      ||\n             \\\\__`\\\\     |'__/\n               `_\\\\   //_'\n\
+    \               _.,:---;,._\n               \\\\_:     :_/\n                 |@.\
+    \ .@|\n                 |     |\n                 ,\\\\.-./ \\\\\n           \
+    \      ;;`-'   `---__________-----.-.\n                 ;;;                  \
+    \       \\\\_\\\\\n                 ';;;                         |\n         \
+    \         ;    |                      ;\n                   \\\\   \\\\     \\\
+    \\        |      /\n                    \\\\_, \\\\    /        \\\\     |\\\\\
+    \n                      |';|  |,,,,,,,,/ \\\\    \\\\ \\\\_\n                \
+    \      |  |  |           \\\\   /   |\n                      \\\\  \\\\  |   \
+    \        |  / \\\\  |\n                       | || |           | |   | |\n   \
+    \                    | || |           | |   | |\n                       | || |\
+    \           | |   | |\n                       |_||_|           |_|   |_|\n   \
+    \                   /_//_/           /_/   /_/\n            Our 'Bambi' looks\
+    \ hungry. Let's go to feed it!\"\"\";\n\n        String goose = \"\"\"\n     \
+    \       Switching on the camera in the goose habitat...\n            \n      \
+    \                                          _\n                               \
+    \             ,-\"\" \"\".\n                                          ,'  ____\
+    \  `.\n                                        ,'  ,'    `.  `._\n           \
+    \    (`.         _..--.._   ,'  ,'        \\\\    \\\\\n              (`-.\\\\\
+    \    .-\"\"        \"\"'   /          (  d _b\n             (`._  `-\"\" ,._ \
+    \            (            `-(   \\\\\n             <_  `     (  <`<          \
+    \  \\\\              `-._\\\\\n              <`-       (__< <           :\n  \
+    \             (__        (_<_<          ;\n                `------------------------------------------\n\
+    \            The goose is staring intently at you... Maybe it's time to change\
+    \ the channel?\"\"\";\n\n        String bat = \"\"\"\n            Switching on\
+    \ the camera in the bat habitat...\n            _________________            \
+    \   _________________\n             ~-.              \\\\  |\\\\___/|  /     \
+    \         .-~\n                 ~-.           \\\\ / o o \\\\ /           .-~\n\
+    \                    >           \\\\  W  //           <\n                   /\
+    \             /~---~\\\\             \\\\\n                  /_            | \
+    \      |            _\\\\\n                     ~-.        |       |        .-~\n\
+    \                        ;        \\\\     /        i\n                      \
+    \ /___      /\\\\   /\\\\      ___\\\\\n                            ~-. /  \\\\\
+    _/  \\\\ .-~\n                               V         V\n            This bat\
+    \ looks like it's doing fine.\"\"\";\n\n        String rabbit = \"\"\"\n     \
+    \       Switching on the camera in the rabbit habitat...\n                   \
+    \  ,\n                    /|      __\n                   / |   ,-~ /\n       \
+    \           Y :|  //  /\n                  | jj /( .^\n                  >-\"\
+    ~\"-v\"\n                 /       Y\n                jo  o    |\n            \
+    \   ( ~T~     j\n                >._-' _./\n               /   \"~\"  |\n    \
+    \          Y     _,  |\n             /| ;-\"~ _  l\n            / l/ ,-\"~   \
+    \ \\\\\n            \\\\//\\\\/      .- \\\\\n             Y        /    Y\n \
+    \            l       I     !\n             ]\\\\      _\\\\    /\"\\\\\n     \
+    \       (\" ~----( ~   Y.  )\n            It looks like we will soon have more\
+    \ rabbits!\"\"\";\n\n        // write your code here\n    }\n}"
+  learner_created: false
+- name: test/ZookeeperTest.java
+  visible: false
+  text: "import org.hyperskill.hstest.dynamic.DynamicTest;\nimport org.hyperskill.hstest.stage.StageTest;\n\
+    import org.hyperskill.hstest.testcase.CheckResult;\nimport org.hyperskill.hstest.testing.TestedProgram;\n\
+    \nimport java.util.Map;\n\npublic class ZookeeperTest extends StageTest {\n\n\
+    \    final String camel = \"\"\"\n        Switching on the camera in the camel\
+    \ habitat...\n         ___.-''''-.\n        /___  @    |\n        ',,,,.     |\
+    \         _.'''''''._\n             '     |        /           \\\\\n        \
+    \     |     \\\\    _.-'             \\\\\n             |      '.-'          \
+    \        '-.\n             |                               ',\n             |\
+    \                                '',\n              ',,-,                    \
+    \       ':;\n                   ',,| ;,,                 ,' ;;\n             \
+    \         ! ; !'',,,',',,,,'!  ;   ;:\n                     : ;  ! !       ! !\
+    \ ;  ;   :;\n                     ; ;   ! !      ! !  ; ;   ;,\n             \
+    \       ; ;    ! !     ! !   ; ;\n                    ; ;    ! !    ! !     ;\
+    \ ;\n                   ;,,      !,!   !,!     ;,;\n                   /_I   \
+    \   L_I   L_I     /_I\n        Look at that! Our little camel is sunbathing!\"\
+    \"\";\n\n    final String lion = \"\"\"\n        Switching on the camera in the\
+    \ lion habitat...\n                                                       ,w.\n\
+    \                                                     ,YWMMw  ,M  ,\n        \
+    \                        _.---.._   __..---._.'MMMMMw,wMWmW,\n               \
+    \            _.-\"\"        '''           YP\"WMMMMMMMMMb,\n                 \
+    \       .-' __.'                   .'     MMMMW^WMMMM;\n            _,       \
+    \ .'.-'\"; `,       /`     .--\"\"      :MMM[==MWMW^;\n         ,mM^\"     ,-'.'\
+    \   /   ;      ;      /   ,       MMMMb_wMW\"  @\\\\\n        ,MM:.    .'.-' \
+    \  .'     ;     `\\\\    ;     `,     MMMMMMMW `\"=./`-,\n        WMMm__,-'.'\
+    \     /      _.\\\\      F'''-+,,   ;_,_.dMMMMMMMM[,_ / `=_}\n        \"^MP__.-'\
+    \    ,-' _.--\"\"   `-,   ;       \\\\  ; ;MMMMMMMMMMW^``; __|\n             \
+    \      /   .'            ; ;         )  )`{  \\\\ `\"^W^`,   \\\\  :\n       \
+    \           /  .'             /  (       .'  /     Ww._     `.  `\"\n        \
+    \         /  Y,              `,  `-,=,_{   ;      MMMP`\"\"-,  `-._.-,\n     \
+    \           (--, )                `,_ / `) \\\\/\"\")      ^\"      `-, -;\"\\\
+    \\:\n        The lion is roaring!\"\"\";\n\n    final String deer = \"\"\"\n \
+    \       Switching on the camera in the deer habitat...\n           /|       |\\\
+    \\\n        `__\\\\       //__'\n           ||      ||\n         \\\\__`\\\\ \
+    \    |'__/\n           `_\\\\   //_'\n           _.,:---;,._\n           \\\\\
+    _:     :_/\n             |@. .@|\n             |     |\n             ,\\\\.-./\
+    \ \\\\\n             ;;`-'   `---__________-----.-.\n             ;;;        \
+    \                 \\\\_\\\\\n             ';;;                         |\n   \
+    \           ;    |                      ;\n               \\\\   \\\\     \\\\\
+    \        |      /\n                \\\\_, \\\\    /        \\\\     |\\\\\n  \
+    \                |';|  |,,,,,,,,/ \\\\    \\\\ \\\\_\n                  |  | \
+    \ |           \\\\   /   |\n                  \\\\  \\\\  |           |  / \\\\\
+    \  |\n                   | || |           | |   | |\n                   | || |\
+    \           | |   | |\n                   | || |           | |   | |\n       \
+    \            |_||_|           |_|   |_|\n                  /_//_/           /_/\
+    \   /_/\n        Our 'Bambi' looks hungry. Let's go to feed it!\"\"\";\n\n   \
+    \ final String goose = \"\"\"\n        Switching on the camera in the goose habitat...\n\
+    \        \n                                            _\n                   \
+    \                     ,-\"\" \"\".\n                                      ,' \
+    \ ____  `.\n                                    ,'  ,'    `.  `._\n          \
+    \ (`.         _..--.._   ,'  ,'        \\\\    \\\\\n          (`-.\\\\    .-\"\
+    \"        \"\"'   /          (  d _b\n         (`._  `-\"\" ,._             (\
+    \            `-(   \\\\\n         <_  `     (  <`<            \\\\           \
+    \   `-._\\\\\n          <`-       (__< <           :\n           (__        (_<_<\
+    \          ;\n            `------------------------------------------\n      \
+    \  The goose is staring intently at you... Maybe it's time to change the channel?\"\
+    \"\";\n\n    final String bat = \"\"\"\n        Switching on the camera in the\
+    \ bat habitat...\n        _________________               _________________\n\
+    \         ~-.              \\\\  |\\\\___/|  /              .-~\n            \
+    \ ~-.           \\\\ / o o \\\\ /           .-~\n                >           \\\
+    \\  W  //           <\n               /             /~---~\\\\             \\\\\
+    \n              /_            |       |            _\\\\\n                 ~-.\
+    \        |       |        .-~\n                    ;        \\\\     /       \
+    \ i\n                   /___      /\\\\   /\\\\      ___\\\\\n               \
+    \         ~-. /  \\\\_/  \\\\ .-~\n                           V         V\n  \
+    \      This bat looks like it's doing fine.\"\"\";\n\n    final String rabbit\
+    \ = \"\"\"\n        Switching on the camera in the rabbit habitat...\n       \
+    \          ,\n                /|      __\n               / |   ,-~ /\n       \
+    \       Y :|  //  /\n              | jj /( .^\n              >-\"~\"-v\"\n   \
+    \          /       Y\n            jo  o    |\n           ( ~T~     j\n       \
+    \     >._-' _./\n           /   \"~\"  |\n          Y     _,  |\n         /| ;-\"\
+    ~ _  l\n        / l/ ,-\"~    \\\\\n        \\\\//\\\\/      .- \\\\\n       \
+    \  Y        /    Y\n         l       I     !\n         ]\\\\      _\\\\    /\"\
+    \\\\\n        (\" ~----( ~   Y.  )\n        It looks like we will soon have more\
+    \ rabbits!\"\"\";\n\n    private final String theEndMessage = \"---\\n\" +\n \
+    \       \"You've reached the end of the program. \" +\n        \"To check another\
+    \ habitat, please restart the watcher.\";\n\n    private final String[] indexArray\
+    \ = {\"0\", \"1\", \"2\", \"3\", \"4\", \"5\"};\n\n    private final Map<String,\
+    \ String[]> animalIndex = Map.of(\n        \"0\", new String[]{camel, \"camel\"\
+    },\n        \"1\", new String[]{lion, \"lion\"},\n        \"2\", new String[]{deer,\
+    \ \"deer\"},\n        \"3\", new String[]{goose, \"goose\"},\n        \"4\", new\
+    \ String[]{bat, \"bat\"},\n        \"5\", new String[]{rabbit, \"rabbit\"}\n \
+    \   );\n\n    @DynamicTest(data = \"indexArray\")\n    CheckResult test(String\
+    \ index) {\n        var testedProgram = new TestedProgram();\n        testedProgram.start();\n\
+    \n        var output = testedProgram.execute(index);\n\n        var animalImage\
+    \ = animalIndex.get(index)[0];\n        var animalName = animalIndex.get(index)[1];\n\
+    \n        if (!output.contains(animalImage)) {\n            return CheckResult.wrong(\"\
+    You should output a \" + animalName + \" \" +\n                \"when the input\
+    \ is the number \" + index);\n        }\n\n        if (!output.contains(theEndMessage))\
+    \ {\n            return CheckResult.wrong(\"You should output the message about\
+    \ the end of the program!\");\n        }\n\n        return CheckResult.correct();\n\
+    \    }\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/projects/229/stages/1149/implement#comment
+status: Unchecked
+record: -1
