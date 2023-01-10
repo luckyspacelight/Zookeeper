@@ -1,8 +1,267 @@
 [1;31m
 Start test 1[0m
-I love animals!
-Let's check on the animals...
-The deer looks fine.
-The bat looks happy.
-The lion looks healthy.
-
+@Please enter the number of the habitat you would like to view:
+> 1
+/Switching on the camera in the lion habitat...
+3                                               ,w.
+;                                             ,YWMMw  ,M  ,
+<                        _.---.._   __..---._.'MMMMMw,wMWmW,
+>                   _.-""        '''           YP"WMMMMMMMMMb,
+?                .-' __.'                   .'     MMMMW^WMMMM;
+?    _,        .'.-'"; `,       /`     .--""      :MMM[==MWMW^;
+@ ,mM^"     ,-'.'   /   ;      ;      /   ,       MMMMb_wMW"  @\
+C,MM:.    .'.-'   .'     ;     `\    ;     `,     MMMMMMMW `"=./`-,
+DWMMm__,-'.'     /      _.\      F'''-+,,   ;_,_.dMMMMMMMM[,_ / `=_}
+B"^MP__.-'    ,-' _.--""   `-,   ;       \  ; ;MMMMMMMMMMW^``; __|
+B           /   .'            ; ;         )  )`{  \ `"^W^`,   \  :
+A          /  .'             /  (       .'  /     Ww._     `.  `"
+D         /  Y,              `,  `-,=,_{   ;      MMMP`""-,  `-._.-,
+D        (--, )                `,_ / `) \/"")      ^"      `-, -;"\:
+The lion is roaring!
+@Please enter the number of the habitat you would like to view:
+> exit
+See you later!
+[1;31m
+Start test 2[0m
+@Please enter the number of the habitat you would like to view:
+> 3
+0Switching on the camera in the goose habitat...
+
+&                                    _
+)                                ,-"" "".
++                              ,'  ____  `.
+.                            ,'  ,'    `.  `._
+/   (`.         _..--.._   ,'  ,'        \    \
+0  (`-.\    .-""        ""'   /          (  d _b
+1 (`._  `-"" ,._             (            `-(   \
+2 <_  `     (  <`<            \              `-._\
+  <`-       (__< <           :
+   (__        (_<_<          ;
+0    `------------------------------------------
+PThe goose is staring intently at you... Maybe it's time to change the channel?
+@Please enter the number of the habitat you would like to view:
+> exit
+See you later!
+[1;31m
+Start test 3[0m
+@Please enter the number of the habitat you would like to view:
+> 5
+1Switching on the camera in the rabbit habitat...
+         ,
+        /|      __
+       / |   ,-~ /
+      Y :|  //  /
+      | jj /( .^
+      >-"~"-v"
+     /       Y
+    jo  o    |
+   ( ~T~     j
+    >._-' _./
+   /   "~"  |
+  Y     _,  |
+ /| ;-"~ _  l
+/ l/ ,-"~    \
+\//\/      .- \
+ Y        /    Y
+ l       I     !
+ ]\      _\    /"\
+(" ~----( ~   Y.  )
+/It looks like we will soon have more rabbits!
+@Please enter the number of the habitat you would like to view:
+> exit
+See you later!
+[1;31m
+Start test 4[0m
+@Please enter the number of the habitat you would like to view:
+> 0
+0Switching on the camera in the camel habitat...
+ ___.-''''-.
+/___  @    |
+!',,,,.     |         _.'''''''._
+"     '     |        /           \
+#     |     \    _.-'             \
+&     |      '.-'                  '-.
+(     |                               ',
+*     |                                '',
+*      ',,-,                           ':;
+*           ',,| ;,,                 ,' ;;
+*              ! ; !'',,,',',,,,'!  ;   ;:
+*             : ;  ! !       ! ! ;  ;   :;
+*             ; ;   ! !      ! !  ; ;   ;,
+%            ; ;    ! !     ! !   ; ;
+&            ; ;    ! !    ! !     ; ;
+&           ;,,      !,!   !,!     ;,;
+&           /_I      L_I   L_I     /_I
+/Look at that! Our little camel is sunbathing!
+@Please enter the number of the habitat you would like to view:
+> 2
+/Switching on the camera in the deer habitat...
+   /|       |\
+`__\       //__'
+   ||      ||
+ \__`\     |'__/
+   `_\   //_'
+   _.,:---;,._
+   \_:     :_/
+     |@. .@|
+     |     |
+     ,\.-./ \
+$     ;;`-'   `---__________-----.-.
+%     ;;;                         \_\
+$     ';;;                         |
+$      ;    |                      ;
+#       \   \     \        |      /
+#        \_, \    /        \     |\
+%          |';|  |,,,,,,,,/ \    \ \_
+&          |  |  |           \   /   |
+&          \  \  |           |  / \  |
+&           | || |           | |   | |
+&           | || |           | |   | |
+&           | || |           | |   | |
+&           |_||_|           |_|   |_|
+%          /_//_/           /_/   /_/
+0Our 'Bambi' looks hungry. Let's go to feed it!
+@Please enter the number of the habitat you would like to view:
+> 4
+.Switching on the camera in the bat habitat...
+2_________________               _________________
+1 ~-.              \  |\___/|  /              .-~
+-     ~-.           \ / o o \ /           .-~
+)        >           \  W  //           <
++       /             /~---~\             \
+,      /_            |       |            _\
+)         ~-.        |       |        .-~
+&            ;        \     /        i
+'           /___      /\   /\      ___\
+"                ~-. /  \_/  \ .-~
+                   V         V
+&This bat looks like it's doing fine.
+@Please enter the number of the habitat you would like to view:
+> exit
+See you later!
+[1;31m
+Start test 5[0m
+@Please enter the number of the habitat you would like to view:
+> 0
+0Switching on the camera in the camel habitat...
+ ___.-''''-.
+/___  @    |
+!',,,,.     |         _.'''''''._
+"     '     |        /           \
+#     |     \    _.-'             \
+&     |      '.-'                  '-.
+(     |                               ',
+*     |                                '',
+*      ',,-,                           ':;
+*           ',,| ;,,                 ,' ;;
+*              ! ; !'',,,',',,,,'!  ;   ;:
+*             : ;  ! !       ! ! ;  ;   :;
+*             ; ;   ! !      ! !  ; ;   ;,
+%            ; ;    ! !     ! !   ; ;
+&            ; ;    ! !    ! !     ; ;
+&           ;,,      !,!   !,!     ;,;
+&           /_I      L_I   L_I     /_I
+/Look at that! Our little camel is sunbathing!
+@Please enter the number of the habitat you would like to view:
+> 1
+/Switching on the camera in the lion habitat...
+3                                               ,w.
+;                                             ,YWMMw  ,M  ,
+<                        _.---.._   __..---._.'MMMMMw,wMWmW,
+>                   _.-""        '''           YP"WMMMMMMMMMb,
+?                .-' __.'                   .'     MMMMW^WMMMM;
+?    _,        .'.-'"; `,       /`     .--""      :MMM[==MWMW^;
+@ ,mM^"     ,-'.'   /   ;      ;      /   ,       MMMMb_wMW"  @\
+C,MM:.    .'.-'   .'     ;     `\    ;     `,     MMMMMMMW `"=./`-,
+DWMMm__,-'.'     /      _.\      F'''-+,,   ;_,_.dMMMMMMMM[,_ / `=_}
+B"^MP__.-'    ,-' _.--""   `-,   ;       \  ; ;MMMMMMMMMMW^``; __|
+B           /   .'            ; ;         )  )`{  \ `"^W^`,   \  :
+A          /  .'             /  (       .'  /     Ww._     `.  `"
+D         /  Y,              `,  `-,=,_{   ;      MMMP`""-,  `-._.-,
+D        (--, )                `,_ / `) \/"")      ^"      `-, -;"\:
+The lion is roaring!
+@Please enter the number of the habitat you would like to view:
+> 2
+/Switching on the camera in the deer habitat...
+   /|       |\
+`__\       //__'
+   ||      ||
+ \__`\     |'__/
+   `_\   //_'
+   _.,:---;,._
+   \_:     :_/
+     |@. .@|
+     |     |
+     ,\.-./ \
+$     ;;`-'   `---__________-----.-.
+%     ;;;                         \_\
+$     ';;;                         |
+$      ;    |                      ;
+#       \   \     \        |      /
+#        \_, \    /        \     |\
+%          |';|  |,,,,,,,,/ \    \ \_
+&          |  |  |           \   /   |
+&          \  \  |           |  / \  |
+&           | || |           | |   | |
+&           | || |           | |   | |
+&           | || |           | |   | |
+&           |_||_|           |_|   |_|
+%          /_//_/           /_/   /_/
+0Our 'Bambi' looks hungry. Let's go to feed it!
+@Please enter the number of the habitat you would like to view:
+> 3
+0Switching on the camera in the goose habitat...
+
+&                                    _
+)                                ,-"" "".
++                              ,'  ____  `.
+.                            ,'  ,'    `.  `._
+/   (`.         _..--.._   ,'  ,'        \    \
+0  (`-.\    .-""        ""'   /          (  d _b
+1 (`._  `-"" ,._             (            `-(   \
+2 <_  `     (  <`<            \              `-._\
+  <`-       (__< <           :
+   (__        (_<_<          ;
+0    `------------------------------------------
+PThe goose is staring intently at you... Maybe it's time to change the channel?
+@Please enter the number of the habitat you would like to view:
+> 4
+.Switching on the camera in the bat habitat...
+2_________________               _________________
+1 ~-.              \  |\___/|  /              .-~
+-     ~-.           \ / o o \ /           .-~
+)        >           \  W  //           <
++       /             /~---~\             \
+,      /_            |       |            _\
+)         ~-.        |       |        .-~
+&            ;        \     /        i
+'           /___      /\   /\      ___\
+"                ~-. /  \_/  \ .-~
+                   V         V
+&This bat looks like it's doing fine.
+@Please enter the number of the habitat you would like to view:
+> 5
+1Switching on the camera in the rabbit habitat...
+         ,
+        /|      __
+       / |   ,-~ /
+      Y :|  //  /
+      | jj /( .^
+      >-"~"-v"
+     /       Y
+    jo  o    |
+   ( ~T~     j
+    >._-' _./
+   /   "~"  |
+  Y     _,  |
+ /| ;-"~ _  l
+/ l/ ,-"~    \
+\//\/      .- \
+ Y        /    Y
+ l       I     !
+ ]\      _\    /"\
+(" ~----( ~   Y.  )
+/It looks like we will soon have more rabbits!
+@Please enter the number of the habitat you would like to view:
+> exit
+See you later!

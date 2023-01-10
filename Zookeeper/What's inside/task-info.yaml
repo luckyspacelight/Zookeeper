@@ -175,6 +175,9 @@ files:
     \ the end of the program!\");\n        }\n\n        return CheckResult.correct();\n\
     \    }\n}"
   learner_created: false
-feedback_link: https://hyperskill.org/projects/229/stages/1149/implement#comment
-status: Unchecked
-record: -1
+feedback_link: https://hyperskill.org/learn/step/17790#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 10 Jan 2023 17:22:28 UTC"
+record: 3
